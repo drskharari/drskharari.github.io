@@ -76,7 +76,7 @@ h3 {
 	font-weight: bold;
 	text-align: center;
 	text-decoration: none;
-	background: url(images/button_01.gif) no-repeat;
+	background:  url(images/button_01.jpg) no-repeat;
 }
 
 .fl { float: left; }
@@ -96,14 +96,14 @@ h3 {
 	width: 100%;
 	height: 450px;
 	margin: 0 auto;
-	background: url(images/header_bg_wrapper_outter.gif) top repeat-x;
+	background:  url(images/header_bg_wrapper_outter.jpg) top repeat-x;
 }
 
 #site_title_bar_wrapper_inner {
 	width: 100%;
 	height: 450px;
 	margin: 0 auto;	
-	background:  url(images/header_bg_wrapper.gif) no-repeat center top;
+	background:  url(images/header_bg_wrapper.jpg) no-repeat center top;
 }
 
 #site_title_bar {
@@ -111,7 +111,7 @@ h3 {
 	height: 450px;
 	margin: 0 auto;
 	padding: 0 80px;
-	background: url(images/header_bg.gif) no-repeat center top;
+	background: url(images/header_bg.jpg) no-repeat center top;
 }
 
 #site_title_bar #banner_left {
@@ -251,7 +251,7 @@ h3 {
 	width: 940px;
 	margin: 0 auto;
 	padding: 60px 20px 40px 20px;
-	background: url(images/content_bg.gif) no-repeat center top;
+	background: url(images/content_bg.jpg) no-repeat center top;
 }
 
 .section_w940 .em_text {
@@ -277,7 +277,7 @@ h3 {
 
 #footer_wrapper {
 	width: 100%;
-	background: #00a3ae url(images/footer.gif) top repeat-x;
+	background: #00a3ae  url(images/footer.jpg) top repeat-x;
 }
 
 #footer {
