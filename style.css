@@ -277,7 +277,9 @@ h3 {
 
 #footer_wrapper {
 	width: 100%;
+	height:30px;
 	background: #00a3ae  url(images/footer.jpg) top repeat-x;
+	font-size: 18px;
 }
 
 #footer {
