@@ -1,2 +1,2 @@
 # drskharari.github.io
-homoeowonders.com
+homoeocurative.in
